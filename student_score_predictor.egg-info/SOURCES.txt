@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/__init__.py
+student_score_predictor.egg-info/PKG-INFO
+student_score_predictor.egg-info/SOURCES.txt
+student_score_predictor.egg-info/dependency_links.txt
+student_score_predictor.egg-info/requires.txt
+student_score_predictor.egg-info/top_level.txt
